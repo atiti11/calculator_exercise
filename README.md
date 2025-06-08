@@ -17,3 +17,9 @@ Ve složce `/solution` můžete najít řešení. Složku `/images` můžete ign
 Fork repozitáře je velmi jednoduchý - stačí kliknout na tlačítko "Fork":
 
 <img src="/images/github_fork.png">
+
+Pak můžete změnit jméno (není nutné) a potvrďte tlačítkem "Create Fork":
+
+<img src="/images/create_fork.png">
+
+A to je všechno - teď už máte vlastní kopii tohoto repozitáře amůžete sis ní dělat, co chcete ;)
